@@ -1,0 +1,27 @@
+{
+    "name": "eslint-plugin-formatting",
+    "version": "0.0.1",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com/dugokontov/eslint-plugin-formatting.git"
+    },
+    "keywords": [
+        "eslint",
+        "plugin",
+        "formatting"
+    ],
+    "author": "Boris Ostojic <sergejspam@gmail.com>",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/dugokontov/eslint-plugin-formatting/issues"
+    },
+    "homepage": "https://github.com/dugokontov/eslint-plugin-formatting#readme",
+    "peerDependencies": {
+        "eslint": ">=0.8.0"
+    }
+}
