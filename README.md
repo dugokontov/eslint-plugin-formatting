@@ -1,5 +1,4 @@
-ESLint-plugin-formatting
-===================
+#ESLint-plugin-formatting
 
 Linting rules for ESLint realted to code style formatting.
 
