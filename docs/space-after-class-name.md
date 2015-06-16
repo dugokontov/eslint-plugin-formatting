@@ -1,7 +1,7 @@
 # Force space between class name and open bracket
 
 When class is defined, space after class name and open bracket is not required. This
-rule changes it
+rule enforce it
 
 ## Rule Details
 
