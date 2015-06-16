@@ -69,4 +69,4 @@ var multilineArray = [
 
 ## When Not To Use It
 
-If you are using comma-dangle rule and prefere collapse brackets.
+If you are not using comma-dangle rule or don't prefere collapse brackets.
